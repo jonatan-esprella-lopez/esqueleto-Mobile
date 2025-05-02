@@ -21,4 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "Esqueleto_Mobile"
 include(":app")
- 
+include(":data")
+include(":domain")
+include(":usesCases")
