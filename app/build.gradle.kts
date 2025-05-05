@@ -57,6 +57,12 @@ dependencies {
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
 
+    //lifedata
+    implementation("androidx.lifecycle:lifecycle-livedata-ktx:2.8.7")
+
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.10.1")
+
+
     //Retrofit
     implementation(libs.retrofit)
     implementation(libs.converterGson)
