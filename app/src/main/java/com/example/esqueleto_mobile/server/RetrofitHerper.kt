@@ -1,4 +1,4 @@
-package com.example.data.server
+package com.example.esqueleto_mobile.server
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
